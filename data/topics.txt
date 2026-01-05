@@ -4,7 +4,7 @@ Notebook LM; https://notebooklm.google/; 4.8; 2026-01-05 19:26:28
 Microsoft Ignite; https://ignite.microsoft.com/; 3.88; 2026-01-05 19:26:28
 Lovable; https://lovable.dev/; 4.2; 2026-01-05 19:26:28
 Claude Code; https://claude.ai/download; 4.7; 2026-01-05 19:26:28
-Trae; https://trae.ai/; 2.1; 2026-01-05 19:26:28
+Trae; https://trae.ai/; 3.9; 2026-01-05 19:26:28
 Windsurf; https://codeium.com/windsurf; 4.8; 2026-01-05 19:26:28
 Gemini Code Assist; https://developers.google.com/gemini-code-assist/docs/overview; 4.7; 2026-01-05 19:26:28
 Cursor; https://www.cursor.com/; 4.9; 2026-01-05 19:26:28
