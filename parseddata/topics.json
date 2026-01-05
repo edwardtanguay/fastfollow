@@ -1,258 +1,258 @@
 [
 	{
-		"suuid": "91Pi6P",
+		"suuid": "wUc4SJ",
 		"title": "Antigravity",
 		"url": "https://antigravity.google",
 		"rating": 4.98,
 		"timestamp": "2026-01-05 18:18:22"
 	},
 	{
-		"suuid": "nmzI9l",
+		"suuid": "iR6dMS",
 		"title": "GitHub MCP Server",
 		"url": "https://github.com/github/github-mcp-server",
 		"rating": 4.91,
 		"timestamp": "2026-01-05 18:19:42"
 	},
 	{
-		"suuid": "Rk7qRA",
+		"suuid": "OAucbx",
 		"title": "Notebook LM",
 		"url": "https://notebooklm.google/",
 		"rating": 4.8,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "2BTC1K",
+		"suuid": "j1cOaP",
 		"title": "Microsoft Ignite",
 		"url": "https://ignite.microsoft.com/",
 		"rating": 3.88,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "Ps4SbB",
+		"suuid": "xzamAO",
 		"title": "Lovable",
 		"url": "https://lovable.dev/",
 		"rating": 4.2,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "TLNmFT",
+		"suuid": "Gj89hZ",
 		"title": "Claude Code",
 		"url": "https://claude.ai/download",
 		"rating": 4.7,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "P2aX5L",
+		"suuid": "Yzo9LE",
 		"title": "Trae",
-		"url": "https://trae.sh/",
+		"url": "https://trae.ai/",
 		"rating": 2.1,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "5602BF",
+		"suuid": "o41kl6",
 		"title": "Windsurf",
 		"url": "https://codeium.com/windsurf",
 		"rating": 4.8,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "kum7k1",
+		"suuid": "ivgAVB",
 		"title": "Gemini Code Assist",
 		"url": "https://developers.google.com/gemini-code-assist/docs/overview",
 		"rating": 4.7,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "TYvzXI",
+		"suuid": "3KF41C",
 		"title": "Cursor",
 		"url": "https://www.cursor.com/",
 		"rating": 4.9,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "MWgiKj",
+		"suuid": "iFC0bb",
 		"title": "Replit",
 		"url": "https://replit.com/",
 		"rating": 4.5,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "xnun3D",
+		"suuid": "5YuGBk",
 		"title": "Flux AI",
 		"url": "https://blackforestlabs.ai/",
 		"rating": 4.6,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "4S1e8x",
+		"suuid": "9EOdZ8",
 		"title": "DALL-E 3",
 		"url": "https://openai.com/dall-e-3/",
 		"rating": 4.5,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "2xlxPn",
+		"suuid": "ZZlaNi",
 		"title": "Zapier",
 		"url": "https://zapier.com/",
 		"rating": 4.3,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "5Sv6TQ",
+		"suuid": "dijwZA",
 		"title": "Make",
 		"url": "https://www.make.com/",
 		"rating": 4.4,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "OuSBIB",
+		"suuid": "hVsmX1",
 		"title": "Gemini Web",
 		"url": "https://gemini.google.com/",
 		"rating": 4.6,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "50jaJE",
+		"suuid": "E0nkU7",
 		"title": "v0",
 		"url": "https://v0.dev/",
 		"rating": 4.9,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "S1DHQr",
+		"suuid": "vxnI23",
 		"title": "Bolt",
 		"url": "https://bolt.new",
 		"rating": 4.8,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "JHuFIs",
+		"suuid": "5easxN",
 		"title": "Zapier MCP",
 		"url": "https://mcp.zapier.com",
 		"rating": 4.7,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "adexNw",
+		"suuid": "ADOGZ9",
 		"title": "n8n",
 		"url": "https://n8n.io/",
 		"rating": 4.7,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "EOywD6",
+		"suuid": "4FLIF5",
 		"title": "Flowise",
 		"url": "https://flowiseai.com/",
 		"rating": 4.6,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "pMcte0",
+		"suuid": "hyafsv",
 		"title": "Artificial Analysis",
 		"url": "https://artificialanalysis.ai",
 		"rating": 4.7,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "wRsK5m",
+		"suuid": "1KAaOv",
 		"title": "LM Studio",
 		"url": "https://lmstudio.ai",
 		"rating": 4.6,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "wuP22k",
+		"suuid": "pqD50r",
 		"title": "Copilot Spaces",
 		"url": "https://github.com/copilot/spaces",
 		"rating": 4.5,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "6MmI8v",
+		"suuid": "KCc0xG",
 		"title": "Pickaxe",
 		"url": "https://pickaxe.co",
 		"rating": 4.4,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "rcLt3l",
+		"suuid": "8waPP4",
 		"title": "LangDashboard",
 		"url": "https://lang-dashboard.vercel.app",
 		"rating": 4.3,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "v95pr4",
+		"suuid": "bqgNgm",
 		"title": "Emergent",
 		"url": "https://app.emergent.sh",
 		"rating": 4.2,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "LqlLiG",
+		"suuid": "jeRifi",
 		"title": "Kimi K2",
 		"url": "https://www.kimi.com",
 		"rating": 4.3,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "QumkW0",
+		"suuid": "XDzQm2",
 		"title": "DeepSeek",
 		"url": "https://chat.deepseek.com",
 		"rating": 4.7,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "231Oot",
+		"suuid": "q9hedY",
 		"title": "Mistral",
 		"url": "https://mistral.ai",
 		"rating": 4.6,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "oEjM4Y",
+		"suuid": "pg70UD",
 		"title": "You",
 		"url": "https://you.com",
 		"rating": 4.2,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "zts26L",
+		"suuid": "2sMRDd",
 		"title": "Hugging Face",
 		"url": "https://huggingface.co",
 		"rating": 4.8,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "HF5nXW",
+		"suuid": "7IULCk",
 		"title": "Ollama",
 		"url": "https://ollama.com",
 		"rating": 4.7,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "2EI16n",
+		"suuid": "VD7UnB",
 		"title": "Google Colab",
 		"url": "https://colab.research.google.com",
 		"rating": 4.6,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "npw7vn",
+		"suuid": "37cIbE",
 		"title": "PyCharm AI",
 		"url": "https://www.jetbrains.com/pycharm/features/ai/",
 		"rating": 4.5,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "nJbwZT",
+		"suuid": "UK24yH",
 		"title": "Compose AI",
 		"url": "https://www.compose.ai",
 		"rating": 4,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "ge4Mvv",
+		"suuid": "Ja8FXk",
 		"title": "Deepfakes Web",
 		"url": "https://deepfakesweb.com",
 		"rating": 3.5,
