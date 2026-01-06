@@ -1,261 +1,786 @@
 [
 	{
-		"suuid": "wUc4SJ",
+		"suuid": "SZIxQE",
 		"title": "Antigravity",
 		"url": "https://antigravity.google",
 		"rating": 4.98,
 		"timestamp": "2026-01-05 18:18:22"
 	},
 	{
-		"suuid": "iR6dMS",
+		"suuid": "keaumo",
 		"title": "GitHub MCP Server",
 		"url": "https://github.com/github/github-mcp-server",
 		"rating": 4.91,
 		"timestamp": "2026-01-05 18:19:42"
 	},
 	{
-		"suuid": "OAucbx",
+		"suuid": "jLspVX",
 		"title": "Notebook LM",
 		"url": "https://notebooklm.google/",
 		"rating": 4.8,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "j1cOaP",
+		"suuid": "0NOyhv",
 		"title": "Microsoft Ignite",
 		"url": "https://ignite.microsoft.com/",
 		"rating": 3.88,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "xzamAO",
+		"suuid": "ZEz5h1",
 		"title": "Lovable",
 		"url": "https://lovable.dev/",
 		"rating": 4.2,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "Gj89hZ",
+		"suuid": "kUG5Vj",
 		"title": "Claude Code",
 		"url": "https://claude.ai/download",
 		"rating": 4.7,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "Yzo9LE",
+		"suuid": "Pr2zz6",
 		"title": "Trae",
 		"url": "https://trae.ai/",
-		"rating": 2.1,
+		"rating": 3.9,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "o41kl6",
+		"suuid": "VC4EwT",
 		"title": "Windsurf",
 		"url": "https://codeium.com/windsurf",
 		"rating": 4.8,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "ivgAVB",
+		"suuid": "1P4xFs",
 		"title": "Gemini Code Assist",
 		"url": "https://developers.google.com/gemini-code-assist/docs/overview",
 		"rating": 4.7,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "3KF41C",
+		"suuid": "7dIAhl",
 		"title": "Cursor",
 		"url": "https://www.cursor.com/",
 		"rating": 4.9,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "iFC0bb",
+		"suuid": "w7DKQ6",
 		"title": "Replit",
 		"url": "https://replit.com/",
 		"rating": 4.5,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "5YuGBk",
+		"suuid": "7rC9hH",
 		"title": "Flux AI",
 		"url": "https://blackforestlabs.ai/",
 		"rating": 4.6,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "9EOdZ8",
+		"suuid": "c6Cqbm",
 		"title": "DALL-E 3",
 		"url": "https://openai.com/dall-e-3/",
 		"rating": 4.5,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "ZZlaNi",
+		"suuid": "OshZkV",
 		"title": "Zapier",
 		"url": "https://zapier.com/",
 		"rating": 4.3,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "dijwZA",
+		"suuid": "3RBBYH",
 		"title": "Make",
 		"url": "https://www.make.com/",
 		"rating": 4.4,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "hVsmX1",
+		"suuid": "sET0cm",
 		"title": "Gemini Web",
 		"url": "https://gemini.google.com/",
 		"rating": 4.6,
 		"timestamp": "2026-01-05 19:26:28"
 	},
 	{
-		"suuid": "E0nkU7",
+		"suuid": "RLfHtr",
 		"title": "v0",
 		"url": "https://v0.dev/",
 		"rating": 4.9,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "vxnI23",
+		"suuid": "YGXWg5",
 		"title": "Bolt",
 		"url": "https://bolt.new",
 		"rating": 4.8,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "5easxN",
+		"suuid": "Mxha2J",
 		"title": "Zapier MCP",
 		"url": "https://mcp.zapier.com",
 		"rating": 4.7,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "ADOGZ9",
+		"suuid": "vKrVRs",
 		"title": "n8n",
 		"url": "https://n8n.io/",
 		"rating": 4.7,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "4FLIF5",
+		"suuid": "tGQejl",
 		"title": "Flowise",
 		"url": "https://flowiseai.com/",
 		"rating": 4.6,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "hyafsv",
+		"suuid": "nxyo0U",
 		"title": "Artificial Analysis",
 		"url": "https://artificialanalysis.ai",
 		"rating": 4.7,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "1KAaOv",
+		"suuid": "dgSN5g",
 		"title": "LM Studio",
 		"url": "https://lmstudio.ai",
 		"rating": 4.6,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "pqD50r",
+		"suuid": "KUU0TS",
 		"title": "Copilot Spaces",
 		"url": "https://github.com/copilot/spaces",
 		"rating": 4.5,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "KCc0xG",
+		"suuid": "VWLBgl",
 		"title": "Pickaxe",
 		"url": "https://pickaxe.co",
 		"rating": 4.4,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "8waPP4",
+		"suuid": "nWG3ay",
 		"title": "LangDashboard",
 		"url": "https://lang-dashboard.vercel.app",
 		"rating": 4.3,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "bqgNgm",
+		"suuid": "lfFjAF",
 		"title": "Emergent",
 		"url": "https://app.emergent.sh",
 		"rating": 4.2,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "jeRifi",
+		"suuid": "Q6k3NQ",
 		"title": "Kimi K2",
 		"url": "https://www.kimi.com",
 		"rating": 4.3,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "XDzQm2",
+		"suuid": "pr1pTV",
 		"title": "DeepSeek",
 		"url": "https://chat.deepseek.com",
 		"rating": 4.7,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "q9hedY",
+		"suuid": "piH41b",
 		"title": "Mistral",
 		"url": "https://mistral.ai",
 		"rating": 4.6,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "pg70UD",
+		"suuid": "kZg4SX",
 		"title": "You",
 		"url": "https://you.com",
 		"rating": 4.2,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "2sMRDd",
+		"suuid": "GxmYfU",
 		"title": "Hugging Face",
 		"url": "https://huggingface.co",
 		"rating": 4.8,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "7IULCk",
+		"suuid": "khIBeR",
 		"title": "Ollama",
 		"url": "https://ollama.com",
 		"rating": 4.7,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "VD7UnB",
+		"suuid": "TVm9b7",
 		"title": "Google Colab",
 		"url": "https://colab.research.google.com",
 		"rating": 4.6,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "37cIbE",
+		"suuid": "LT4yqB",
 		"title": "PyCharm AI",
 		"url": "https://www.jetbrains.com/pycharm/features/ai/",
 		"rating": 4.5,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "UK24yH",
+		"suuid": "mOLkUl",
 		"title": "Compose AI",
 		"url": "https://www.compose.ai",
 		"rating": 4,
 		"timestamp": "2026-01-05 23:50:00"
 	},
 	{
-		"suuid": "Ja8FXk",
+		"suuid": "7cKmHu",
 		"title": "Deepfakes Web",
 		"url": "https://deepfakesweb.com",
 		"rating": 3.5,
 		"timestamp": "2026-01-05 23:50:00"
+	},
+	{
+		"suuid": "G0pfo8",
+		"title": "ChatGPT",
+		"url": "https://chat.openai.com",
+		"rating": 4.9,
+		"timestamp": "2026-01-06 10:00:00"
+	},
+	{
+		"suuid": "e6BzAp",
+		"title": "Midjourney",
+		"url": "https://www.midjourney.com",
+		"rating": 4.8,
+		"timestamp": "2026-01-06 10:00:00"
+	},
+	{
+		"suuid": "KAaiXp",
+		"title": "Suno AI",
+		"url": "https://suno.com",
+		"rating": 4.7,
+		"timestamp": "2026-01-06 10:00:00"
+	},
+	{
+		"suuid": "p6jDn2",
+		"title": "ElevenLabs",
+		"url": "https://elevenlabs.io",
+		"rating": 4.7,
+		"timestamp": "2026-01-06 10:00:00"
+	},
+	{
+		"suuid": "xQYBdO",
+		"title": "Stable Diffusion",
+		"url": "https://stability.ai/stable-diffusion",
+		"rating": 4.6,
+		"timestamp": "2026-01-06 10:00:00"
+	},
+	{
+		"suuid": "t8MCWk",
+		"title": "Runway ML",
+		"url": "https://runwayml.com",
+		"rating": 4.6,
+		"timestamp": "2026-01-06 10:00:00"
+	},
+	{
+		"suuid": "cFR6GL",
+		"title": "Pika Labs",
+		"url": "https://www.pika.art",
+		"rating": 4.5,
+		"timestamp": "2026-01-06 10:00:00"
+	},
+	{
+		"suuid": "c20WkD",
+		"title": "Gamma",
+		"url": "https://gamma.app",
+		"rating": 4.5,
+		"timestamp": "2026-01-06 10:00:00"
+	},
+	{
+		"suuid": "A30aYF",
+		"title": "Perplexity AI",
+		"url": "https://www.perplexity.ai",
+		"rating": 4.8,
+		"timestamp": "2026-01-06 10:00:00"
+	},
+	{
+		"suuid": "bnLIkw",
+		"title": "Poe",
+		"url": "https://poe.com",
+		"rating": 4.5,
+		"timestamp": "2026-01-06 10:00:00"
+	},
+	{
+		"suuid": "MCa48x",
+		"title": "Leonardo AI",
+		"url": "https://leonardo.ai",
+		"rating": 4.6,
+		"timestamp": "2026-01-06 10:00:00"
+	},
+	{
+		"suuid": "kock2w",
+		"title": "Descript",
+		"url": "https://www.descript.com",
+		"rating": 4.5,
+		"timestamp": "2026-01-06 10:00:00"
+	},
+	{
+		"suuid": "Wq6Hp7",
+		"title": "HeyGen",
+		"url": "https://www.heygen.com",
+		"rating": 4.5,
+		"timestamp": "2026-01-06 10:00:00"
+	},
+	{
+		"suuid": "6S9Hmi",
+		"title": "Canva AI",
+		"url": "https://www.canva.com/ai-tools/",
+		"rating": 4.6,
+		"timestamp": "2026-01-06 10:00:00"
+	},
+	{
+		"suuid": "sT0wpG",
+		"title": "Notion AI",
+		"url": "https://www.notion.so/product/ai",
+		"rating": 4.4,
+		"timestamp": "2026-01-06 10:00:00"
+	},
+	{
+		"suuid": "moEhwP",
+		"title": "Jasper",
+		"url": "https://www.jasper.ai",
+		"rating": 4.3,
+		"timestamp": "2026-01-06 10:00:00"
+	},
+	{
+		"suuid": "gz97Sr",
+		"title": "Synthesia",
+		"url": "https://www.synthesia.io",
+		"rating": 4.5,
+		"timestamp": "2026-01-06 10:00:00"
+	},
+	{
+		"suuid": "PUaOf2",
+		"title": "Murf AI",
+		"url": "https://murf.ai",
+		"rating": 4.4,
+		"timestamp": "2026-01-06 10:00:00"
+	},
+	{
+		"suuid": "NV0khy",
+		"title": "Copy.ai",
+		"url": "https://www.copy.ai",
+		"rating": 4.2,
+		"timestamp": "2026-01-06 10:00:00"
+	},
+	{
+		"suuid": "l4gfRU",
+		"title": "Grok",
+		"url": "https://grok.x.ai",
+		"rating": 4.3,
+		"timestamp": "2026-01-06 10:00:00"
+	},
+	{
+		"suuid": "4jGKwd",
+		"title": "Claude Desktop",
+		"url": "https://claude.ai",
+		"rating": 4.7,
+		"timestamp": "2026-01-06 10:00:00"
+	},
+	{
+		"suuid": "Gzn0wC",
+		"title": "GitHub Copilot",
+		"url": "https://github.com/features/copilot",
+		"rating": 4.8,
+		"timestamp": "2026-01-06 10:00:00"
+	},
+	{
+		"suuid": "wKKOGz",
+		"title": "Codeium",
+		"url": "https://codeium.com",
+		"rating": 4.7,
+		"timestamp": "2026-01-06 10:00:00"
+	},
+	{
+		"suuid": "yEpiLd",
+		"title": "Phind",
+		"url": "https://www.phind.com",
+		"rating": 4.5,
+		"timestamp": "2026-01-06 10:00:00"
+	},
+	{
+		"suuid": "DACphd",
+		"title": "Llama 3.2",
+		"url": "https://llama.meta.com",
+		"rating": 4.6,
+		"timestamp": "2026-01-06 10:00:00"
+	},
+	{
+		"suuid": "9WKWt5",
+		"title": "Whisper",
+		"url": "https://openai.com/research/whisper",
+		"rating": 4.6,
+		"timestamp": "2026-01-06 10:15:00"
+	},
+	{
+		"suuid": "aaa4fD",
+		"title": "TensorFlow",
+		"url": "https://www.tensorflow.org",
+		"rating": 4.8,
+		"timestamp": "2026-01-06 10:15:00"
+	},
+	{
+		"suuid": "vCopgq",
+		"title": "PyTorch",
+		"url": "https://pytorch.org",
+		"rating": 4.7,
+		"timestamp": "2026-01-06 10:15:00"
+	},
+	{
+		"suuid": "9g5m6v",
+		"title": "Jupyter",
+		"url": "https://jupyter.org",
+		"rating": 4.5,
+		"timestamp": "2026-01-06 10:15:00"
+	},
+	{
+		"suuid": "nHzidu",
+		"title": "Azure AI",
+		"url": "https://azure.microsoft.com/en-us/solutions/ai",
+		"rating": 4.5,
+		"timestamp": "2026-01-06 10:15:00"
+	},
+	{
+		"suuid": "1a7T7Z",
+		"title": "AWS SageMaker",
+		"url": "https://aws.amazon.com/sagemaker",
+		"rating": 4.6,
+		"timestamp": "2026-01-06 10:15:00"
+	},
+	{
+		"suuid": "vTuwWZ",
+		"title": "LangChain",
+		"url": "https://www.langchain.com",
+		"rating": 4.5,
+		"timestamp": "2026-01-06 10:15:00"
+	},
+	{
+		"suuid": "WnC7Fc",
+		"title": "Vercel AI SDK",
+		"url": "https://sdk.vercel.ai",
+		"rating": 4.4,
+		"timestamp": "2026-01-06 10:15:00"
+	},
+	{
+		"suuid": "O5ViXP",
+		"title": "PromptPerfect",
+		"url": "https://promptperfect.jina.ai",
+		"rating": 4.2,
+		"timestamp": "2026-01-06 10:15:00"
+	},
+	{
+		"suuid": "l9pOyC",
+		"title": "Glean",
+		"url": "https://www.glean.com",
+		"rating": 4.3,
+		"timestamp": "2026-01-06 10:15:00"
+	},
+	{
+		"suuid": "6iT5Z2",
+		"title": "Cohere",
+		"url": "https://cohere.com",
+		"rating": 4.4,
+		"timestamp": "2026-01-06 10:15:00"
+	},
+	{
+		"suuid": "NcvcR8",
+		"title": "Anthropic Console",
+		"url": "https://console.anthropic.com",
+		"rating": 4.6,
+		"timestamp": "2026-01-06 10:15:00"
+	},
+	{
+		"suuid": "ouYdsE",
+		"title": "Quivr",
+		"url": "https://www.quivr.app",
+		"rating": 4.1,
+		"timestamp": "2026-01-06 10:15:00"
+	},
+	{
+		"suuid": "h6lpKD",
+		"title": "OpenAI API",
+		"url": "https://platform.openai.com",
+		"rating": 4.8,
+		"timestamp": "2026-01-06 10:15:00"
+	},
+	{
+		"suuid": "aVznDL",
+		"title": "Weights \u0026 Biases",
+		"url": "https://wandb.ai",
+		"rating": 4.5,
+		"timestamp": "2026-01-06 10:15:00"
+	},
+	{
+		"suuid": "10ZnR0",
+		"title": "Comet ML",
+		"url": "https://www.comet.com",
+		"rating": 4.3,
+		"timestamp": "2026-01-06 10:15:00"
+	},
+	{
+		"suuid": "4xQpiY",
+		"title": "Kubero",
+		"url": "https://www.kubero.dev",
+		"rating": 3.9,
+		"timestamp": "2026-01-06 10:15:00"
+	},
+	{
+		"suuid": "DEbNaA",
+		"title": "Tabnine",
+		"url": "https://www.tabnine.com",
+		"rating": 4.4,
+		"timestamp": "2026-01-06 10:15:00"
+	},
+	{
+		"suuid": "iMlANW",
+		"title": "Sourcegraph Cody",
+		"url": "https://sourcegraph.com/cody",
+		"rating": 4.3,
+		"timestamp": "2026-01-06 10:15:00"
+	},
+	{
+		"suuid": "tTPBhD",
+		"title": "AskCodi",
+		"url": "https://www.askcodi.com",
+		"rating": 4,
+		"timestamp": "2026-01-06 10:15:00"
+	},
+	{
+		"suuid": "YE2KW0",
+		"title": "BlackBox AI",
+		"url": "https://www.useblackbox.io",
+		"rating": 4.2,
+		"timestamp": "2026-01-06 10:15:00"
+	},
+	{
+		"suuid": "IpXCLy",
+		"title": "Mintlify",
+		"url": "https://mintlify.com",
+		"rating": 4.1,
+		"timestamp": "2026-01-06 10:15:00"
+	},
+	{
+		"suuid": "7CzCIn",
+		"title": "Mermaid Chart",
+		"url": "https://www.mermaidchart.com",
+		"rating": 4,
+		"timestamp": "2026-01-06 10:15:00"
+	},
+	{
+		"suuid": "sulsZe",
+		"title": "Whimsical AI",
+		"url": "https://whimsical.com/ai",
+		"rating": 4.2,
+		"timestamp": "2026-01-06 10:15:00"
+	},
+	{
+		"suuid": "KUDsTM",
+		"title": "AudioCraft",
+		"url": "https://audiocraft.metademolab.com",
+		"rating": 4.3,
+		"timestamp": "2026-01-06 10:15:00"
+	},
+	{
+		"suuid": "aYeEPY",
+		"title": "AssemblyAI",
+		"url": "https://www.assemblyai.com",
+		"rating": 4.5,
+		"timestamp": "2026-01-06 10:30:00"
+	},
+	{
+		"suuid": "JJEs3E",
+		"title": "Krisp",
+		"url": "https://krisp.ai",
+		"rating": 4.4,
+		"timestamp": "2026-01-06 10:30:00"
+	},
+	{
+		"suuid": "4Vx514",
+		"title": "Otter.ai",
+		"url": "https://otter.ai",
+		"rating": 4.3,
+		"timestamp": "2026-01-06 10:30:00"
+	},
+	{
+		"suuid": "NgpNFB",
+		"title": "Fireflies.ai",
+		"url": "https://fireflies.ai",
+		"rating": 4.2,
+		"timestamp": "2026-01-06 10:30:00"
+	},
+	{
+		"suuid": "1uUXh2",
+		"title": "Adobe Firefly",
+		"url": "https://www.adobe.com/sensei/generative-ai/firefly.html",
+		"rating": 4.6,
+		"timestamp": "2026-01-06 10:30:00"
+	},
+	{
+		"suuid": "xaN1hO",
+		"title": "Microsoft Designer",
+		"url": "https://designer.microsoft.com",
+		"rating": 4.4,
+		"timestamp": "2026-01-06 10:30:00"
+	},
+	{
+		"suuid": "VLO9jC",
+		"title": "Framer AI",
+		"url": "https://www.framer.com/ai",
+		"rating": 4.3,
+		"timestamp": "2026-01-06 10:30:00"
+	},
+	{
+		"suuid": "SQmkrd",
+		"title": "Uizard",
+		"url": "https://uizard.io",
+		"rating": 4.1,
+		"timestamp": "2026-01-06 10:30:00"
+	},
+	{
+		"suuid": "6kGlQk",
+		"title": "Diagram",
+		"url": "https://diagram.com",
+		"rating": 4,
+		"timestamp": "2026-01-06 10:30:00"
+	},
+	{
+		"suuid": "sjgk7A",
+		"title": "Superhuman AI",
+		"url": "https://superhuman.com/ai",
+		"rating": 4.2,
+		"timestamp": "2026-01-06 10:30:00"
+	},
+	{
+		"suuid": "8NFJAs",
+		"title": "Mem.ai",
+		"url": "https://mem.ai",
+		"rating": 4.1,
+		"timestamp": "2026-01-06 10:30:00"
+	},
+	{
+		"suuid": "22p8bP",
+		"title": "Rewind AI",
+		"url": "https://www.rewind.ai",
+		"rating": 4.3,
+		"timestamp": "2026-01-06 10:30:00"
+	},
+	{
+		"suuid": "RlFDzd",
+		"title": "Browse.ai",
+		"url": "https://www.browse.ai",
+		"rating": 3.9,
+		"timestamp": "2026-01-06 10:30:00"
+	},
+	{
+		"suuid": "iP0eKy",
+		"title": "Cognigy.AI",
+		"url": "https://www.cognigy.com",
+		"rating": 4.4,
+		"timestamp": "2026-01-06 10:30:00"
+	},
+	{
+		"suuid": "4GTnKa",
+		"title": "Voiceflow",
+		"url": "https://www.voiceflow.com",
+		"rating": 4.3,
+		"timestamp": "2026-01-06 10:30:00"
+	},
+	{
+		"suuid": "XV4KyT",
+		"title": "Rasa",
+		"url": "https://rasa.com",
+		"rating": 4.2,
+		"timestamp": "2026-01-06 10:30:00"
+	},
+	{
+		"suuid": "zjRLsG",
+		"title": "Caffe",
+		"url": "https://caffe.berkeleyvision.org",
+		"rating": 4,
+		"timestamp": "2026-01-06 10:30:00"
+	},
+	{
+		"suuid": "dSinnJ",
+		"title": "Keras",
+		"url": "https://keras.io",
+		"rating": 4.5,
+		"timestamp": "2026-01-06 10:30:00"
+	},
+	{
+		"suuid": "tNNVzJ",
+		"title": "Scikit-learn",
+		"url": "https://scikit-learn.org",
+		"rating": 4.6,
+		"timestamp": "2026-01-06 10:30:00"
+	},
+	{
+		"suuid": "X0zS54",
+		"title": "Fast.ai",
+		"url": "https://www.fast.ai",
+		"rating": 4.3,
+		"timestamp": "2026-01-06 10:30:00"
+	},
+	{
+		"suuid": "pfg2Ug",
+		"title": "H2O.ai",
+		"url": "https://h2o.ai",
+		"rating": 4.2,
+		"timestamp": "2026-01-06 10:30:00"
+	},
+	{
+		"suuid": "i5Dtic",
+		"title": "DataRobot",
+		"url": "https://www.datarobot.com",
+		"rating": 4.3,
+		"timestamp": "2026-01-06 10:30:00"
+	},
+	{
+		"suuid": "CNnl8G",
+		"title": "Alteryx",
+		"url": "https://www.alteryx.com",
+		"rating": 4.1,
+		"timestamp": "2026-01-06 10:30:00"
+	},
+	{
+		"suuid": "HPRkOX",
+		"title": "RapidMiner",
+		"url": "https://rapidminer.com",
+		"rating": 4,
+		"timestamp": "2026-01-06 10:30:00"
+	},
+	{
+		"suuid": "7Dl7Hz",
+		"title": "Knime",
+		"url": "https://www.knime.com",
+		"rating": 4.2,
+		"timestamp": "2026-01-06 10:30:00"
 	}
 ]
