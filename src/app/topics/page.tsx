@@ -18,7 +18,7 @@ export default function TopicsPage() {
             AI Ecosystem
           </h1>
           <p className="text-xl text-gray-400 leading-relaxed max-w-3xl border-l-2 border-purple-500/20 pl-6">
-            A curated list of over {displayNumber} tools and resources shaping the future of artificial intelligence.
+            A curated list of over {displayNumber} tools and resources shaping the future of artificial intelligence. <a href="https://discord.gg/cHH9VjNF" className="text-purple-300 underline ml-2" target="_blank" rel="noopener noreferrer">Discuss on Discord</a>
           </p>
         </header>
 
