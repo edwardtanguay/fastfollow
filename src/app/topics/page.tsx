@@ -3,6 +3,10 @@ import SingleTopic from "@/components/SingleTopic";
 import { Topic } from "@/types";
 
 export default function TopicsPage() {
+  const count = (topics as Topic[]).length;
+  const base = Math.floor(count / 10) * 10;
+  const displayNumber = base >= 10 ? base : count;
+
   return (
     <div className="min-h-dvh text-gray-100 p-8 md:p-12">
       <div className="max-w-7xl mx-auto mt-16 md:mt-8">
@@ -14,7 +18,7 @@ export default function TopicsPage() {
             AI Ecosystem
           </h1>
           <p className="text-xl text-gray-400 leading-relaxed max-w-3xl border-l-2 border-purple-500/20 pl-6">
-            A curated list of tools and resources shaping the future of artificial intelligence.
+            A curated list of over {displayNumber} tools and resources shaping the future of artificial intelligence.
           </p>
         </header>
 

@@ -24,7 +24,7 @@ LM Studio; https://lmstudio.ai; 4.6; 2026-01-05 23:50:00
 Copilot Spaces; https://github.com/copilot/spaces; 4.5; 2026-01-05 23:50:00
 Pickaxe; https://pickaxe.co; 4.4; 2026-01-05 23:50:00
 LangDashboard; https://lang-dashboard.vercel.app; 4.3; 2026-01-05 23:50:00
-Emergent; https://app.emergent.sh; 4.2; 2026-01-05 23:50:00
+Emergent; https://app.emergent.sh; 4.89; 2026-01-05 23:50:00
 Kimi K2; https://www.kimi.com; 4.3; 2026-01-05 23:50:00
 DeepSeek; https://chat.deepseek.com; 4.7; 2026-01-05 23:50:00
 Mistral; https://mistral.ai; 4.6; 2026-01-05 23:50:00
@@ -58,7 +58,6 @@ Grok; https://grok.x.ai; 4.3; 2026-01-06 10:00:00
 Claude Desktop; https://claude.ai; 4.7; 2026-01-06 10:00:00
 GitHub Copilot; https://github.com/features/copilot; 4.8; 2026-01-06 10:00:00
 Codeium; https://codeium.com; 4.7; 2026-01-06 10:00:00
-Phind; https://www.phind.com; 4.5; 2026-01-06 10:00:00
 Llama 3.2; https://llama.meta.com; 4.6; 2026-01-06 10:00:00
 Whisper; https://openai.com/research/whisper; 4.6; 2026-01-06 10:15:00
 TensorFlow; https://www.tensorflow.org; 4.8; 2026-01-06 10:15:00
