@@ -1,8 +1,9 @@
+/* eslint-disable @next/next/no-img-element */
 'use client';
 
 export default function About() {
   return (
-    <div className="relative min-h-dvh flex items-start md:items-center justify-center px-8 pt-32 md:pt-8 pb-32 md:pb-16 overflow-hidden bg-gray-950">
+    <div className="relative min-h-dvh flex flex-col md:flex-row items-center justify-center gap-12 md:gap-20 px-8 pt-32 md:pt-8 pb-32 md:pb-16 overflow-hidden bg-gray-950">
       {/* Dynamic Background Particles */}
       <div className="absolute inset-0 pointer-events-none">
         <div className="absolute -top-[10%] left-[10%] w-[70%] h-[60%] bg-indigo-500/15 rounded-full blur-[120px] animate-pulse" />
@@ -10,13 +11,13 @@ export default function About() {
         <div className="absolute top-[20%] right-[10%] w-[40%] h-[40%] bg-pink-500/10 rounded-full blur-[80px] animate-pulse delay-1000" />
       </div>
 
-      <div className="relative z-10 max-w-3xl w-full text-center space-y-10 animate-in fade-in slide-in-from-bottom-5 duration-1000">
+      <div className="relative z-10 max-w-2xl w-full text-center md:text-left space-y-10 animate-in fade-in slide-in-from-bottom-5 duration-1000">
         <div className="space-y-6">
           <h1 className="text-4xl md:text-5xl lg:text-7xl font-extrabold leading-tight tracking-tight text-transparent bg-clip-text bg-linear-to-br from-indigo-400 via-purple-300 to-pink-400 drop-shadow-[0_0_25px_rgba(168,85,247,0.4)]">
             About Us
           </h1>
 
-          <div className="space-y-6 text-base md:text-xl text-slate-300 font-light leading-relaxed max-w-2xl mx-auto">
+          <div className="space-y-6 text-base md:text-xl text-slate-300 font-light leading-relaxed max-w-2xl mx-auto md:mx-0">
             <p>
               We are a group of people who use and discuss AI tools and trends. Whether you're a developer, a creator, or just curious, we share what we're learning, building, and breaking.
             </p>
@@ -29,7 +30,7 @@ export default function About() {
           </div>
         </div>
 
-        <div className="flex flex-col items-center gap-8">
+        <div className="flex flex-col items-center md:items-start gap-8">
           <a
             href="https://discord.gg/cHH9VjNF"
             target="_blank"
@@ -39,6 +40,17 @@ export default function About() {
             Join Discord Server
           </a>
 
+        </div>
+      </div>
+      <div className="relative z-10 flex justify-center items-center animate-in fade-in zoom-in duration-1000 delay-300">
+        <div className="p-6 bg-white/10 backdrop-blur-xl border border-white/20 rounded-[3rem] shadow-2xl group hover:border-purple-500/50 transition-colors duration-500">
+          <div className="p-3 bg-white rounded-[2rem]">
+            <img
+              src="images/qrcode.png"
+              alt="Website QR Code"
+              className="w-40 h-40 md:w-56 md:h-56 object-contain"
+            />
+          </div>
         </div>
       </div>
     </div>
