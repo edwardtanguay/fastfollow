@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 'use client';
 
 export default function About() {
@@ -40,6 +41,9 @@ export default function About() {
           </a>
 
         </div>
+      </div>
+      <div>
+        <img src="images/qrcode.png" alt="Website QR Code"  />
       </div>
     </div>
   );
