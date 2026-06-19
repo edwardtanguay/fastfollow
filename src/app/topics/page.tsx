@@ -1,6 +1,7 @@
 import topics from "../../../parseddata/topics.json";
 import SingleTopic from "@/components/SingleTopic";
 import { Topic } from "@/types";
+import { DISCORD_INVITE_URL } from "@/config";
 
 export default function TopicsPage() {
   const count = (topics as Topic[]).length;
@@ -18,7 +19,7 @@ export default function TopicsPage() {
             AI Ecosystem
           </h1>
           <p className="text-xl text-gray-400 leading-relaxed max-w-3xl border-l-2 border-purple-500/20 pl-6">
-            A curated list of over {displayNumber} tools and resources shaping the future of artificial intelligence. <a href="https://discord.gg/cHH9VjNF" className="text-purple-300 underline ml-2" target="_blank" rel="noopener noreferrer">Discuss on Discord</a>
+            A curated list of over {displayNumber} tools and resources shaping the future of artificial intelligence. <a href={DISCORD_INVITE_URL} className="text-purple-300 underline ml-2" target="_blank" rel="noopener noreferrer">Discuss on Discord</a>
           </p>
         </header>
 

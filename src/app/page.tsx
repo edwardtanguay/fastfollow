@@ -6,6 +6,7 @@ import Link from "next/link";
 import { ExternalLink } from "lucide-react";
 import topicsData from "../../parseddata/topics.json";
 import { Topic } from "@/types";
+import { DISCORD_INVITE_URL } from "@/config";
 
 const allTopics = topicsData as Topic[];
 
@@ -84,7 +85,7 @@ export default function Home() {
 				<div className="space-y-6">
 					<div className="pt-2">
 						<a
-							href="https://discord.gg/cHH9VjNF"
+							href={DISCORD_INVITE_URL}
 							className="group relative inline-flex items-center justify-center px-10 py-4 font-bold text-white transition-all duration-300 bg-linear-to-r from-indigo-600 to-purple-600 rounded-xl hover:from-indigo-500 hover:to-purple-500 hover:scale-105 active:scale-95 shadow-[0_0_20px_rgba(99,102,241,0.3)] hover:shadow-[0_0_30px_rgba(99,102,241,0.5)]"
 						>
 							<span className="relative uppercase tracking-widest">Join Discord Server</span>

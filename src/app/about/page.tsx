@@ -1,6 +1,8 @@
 /* eslint-disable @next/next/no-img-element */
 'use client';
 
+import { DISCORD_INVITE_URL } from "@/config";
+
 export default function About() {
   return (
     <div className="relative min-h-dvh flex flex-col md:flex-row items-center justify-center gap-12 md:gap-20 px-8 pt-32 md:pt-8 pb-32 md:pb-16 overflow-hidden bg-gray-950">
@@ -32,7 +34,7 @@ export default function About() {
 
         <div className="flex flex-col items-center md:items-start gap-8">
           <a
-            href="https://discord.gg/cHH9VjNF"
+            href={DISCORD_INVITE_URL}
             target="_blank"
             rel="noopener noreferrer"
             className="group relative inline-flex items-center gap-3 px-12 py-5 font-bold text-white transition-all duration-300 bg-linear-to-r from-indigo-600 via-purple-600 to-pink-600 rounded-2xl hover:scale-105 active:scale-95 shadow-[0_0_30px_rgba(168,85,247,0.4)] hover:shadow-[0_0_50px_rgba(168,85,247,0.6)] uppercase tracking-widest"
