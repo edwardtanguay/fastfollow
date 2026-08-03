@@ -1,0 +1,60 @@
+- good AI channels
+	- https://www.youtube.com/@JoVanEyck/videos
+		- he has a good take on where AI is headed and how devs need to adapt
+
+
+
+- master.dev courses
+	- one month: $39
+	- (post notes on AI site)
+	- courses: https://master.dev/learn/ai
+		- Practical Prompt Engineering (Lydia Hallie, Anthropic): https://master.dev/courses/claude-code (FREE)
+			- CLAUDE.md: like AGENTS.md for CLAUDE
+			- effort: affects AI behaivor
+			- context windows: amount of text an AI model can consider at once while generating a response
+			- skills: automate repetitive, multi-step workflows
+			- hooks: enable custom logic execution at specific points in an agentic lifecycle
+			- subagents: run in separate loops with their own context, tools, and system prompts
+			- agent teams: enable inter-agent communication and collaboration, unlike independent sub-agents
+			- plugins: bundle skills, hooks, agents, and other components into reusable packages
+			- MCPs: standardized interface that enables AI tools like Claude to interact seamlessly with external systems 
+			- Desktop GitHub Workflow: keep the entire local-to-remote GitHub flow visual, simple, and without heavy command-line usage.
+			- Cowork: productivity tool that automates daily tasks, communications, and schedules through integration with various OS-level applications
+			- Agent SDK: programmatic tool creation
+		- Claude Code (Sabrina Goldfarb, GitHub): https://master.dev/courses/prompt-engineering
+			- prompt engineering: skill of crafting clear, specific, structured, and context-rich instructions
+			- temperature: controls the randomness and creativity of an AI model's responses: 0 (deterministic) to 2 (random)
+			- Top P: an alternative to temperature and is used to remove potential answers from the dataset, offers a balance of diversity and coherence by focusing on high-probability words while ignoring unlikely ones
+			- token limits: 1 token ≈ 0.75 English words (or about 4 characters)
+			- context window
+			- standard prompt: direct questions to AI
+			- uses GitHub Copilot inside VS Code
+			- creates a Prompt Library application
+			- zero-shot prompt: ask the AI to perform a task or answer a question with no examples provided
+			- model selection: advice on how to improve accuracy or reduce costs 
+			- one-shot prompt: one example is provided with the request, model learns the pattern, format, and style from the example
+			- few-shot prompt: provides two or more examples and edge cases
+			- has AI generate a few-shot prompt 
+			- context placement: at the beginning and end of the prompt is more effective then the middle
+			- structured output: examples, templates, or schemas along with the prompt, instructing an AI to generate its response in a specific, predictable, machine-readable format (usually JSON, YAML, or similar) rather than free-form text
+			- chain-of-thought prompts: asks the model to show it's reasoning step-by-step
+			- future-proofing prompts: writing clear, specific, model-agnostic instructions that emphasize desired outcomes, reasoning steps, constraints, and structured formats
+			- emotional prompts: causes the LLM to pay more attention to the more important parts of the original prompt, e.g. “This is extremely important to me,” “Be incredibly excited,” or “You’re deeply empathetic”
+			- complex prompts: how delimiters like quotes, dashes, XML tags, and markdown create boundaries and structure in prompts
+			- assigning personas: assign the model a role of who they are, e.g. you are an expert senior developer who compassionately explains in very simple terms
+		- AI Agents Fundamentals (Scott Moss, Netflix): https://master.dev/courses/ai-agents-v2
+			- creates agent with openai sdk
+			- tool calling: how LLMs can interact with the outside world 
+			- creates an agent tool call: a helper function and Zod for schema validation
+			- evals: AI can give different answers each time (non-deterministic), so you need good ways to check its performance
+				- offline = testing the AI in a controlled setting, away from real users
+				- online = testing it with real users or live situations
+			- Open Telemetry with Laminar: send traces, metrics, and logs to Laminar, so you can monitor, debug, and observe the performance and behavior of your AI workflows
+			- ...
+		- Cursor & Claude Code: Professional AI Setup (Steve Kinney, Temporal): https://master.dev/courses/pro-ai
+		- AI Engineering Fundamentals (Scott Moss, Netflix): https://master.dev/courses/ai-engineering
+		- Complete Intro to MCP (Brian Holt, Microsoft): https://master.dev/courses/mcp
+			- MCP servers, JSON RPC, Claude Desktop, Weather API project, 
+		- Harness Engineering & Agent Orchestration (Scott Moss, Netflix): https://master.dev/courses/agent-harness
+			- NeonDB: 
+		- Playwright: Automated Testing & AI Workflows (Steve Kinney, Temporal): https://master.dev/courses/playwright

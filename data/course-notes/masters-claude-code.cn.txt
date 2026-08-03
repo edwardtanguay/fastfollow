@@ -1,0 +1,111 @@
+url::https://master.dev/courses/claude-code
+title::Claude Code
+presenter::Lydia Hallie (Anthropic)
+created::2026-05-20
+---
+- introduction //2026-07-28 11:27:21..2026-07-28 15:27:24
+	- was at Vercel, then Bun
+	- Bun got acquired by Anthropic in December 2025
+		- "of course I didn't have an AI background"
+	- in this course 
+		- basics like skills, plugins, subagents, MCP
+		- give a mental model of how Claude Code works
+	- quote::Claude Code is a new beast
+	- quote::it's easy to start prompting but not really know what's going on
+	- what is Claude Code
+		- not just a CLI
+			- although most people use it as a CLI
+		- it's an agent, you can use it
+			- in your terminal
+			- in your IDE e.g. VSCode, JetBrains
+			- as Claude Desktop App
+			- directly in your browser
+				- on the web
+				- connect to your GitHub repo
+	- in this course, she will use the CLI
+- How does Claude Code work? //2026-07-28 15:29:40..
+	- https://master.dev/courses/claude-code/claude-code-under-the-hood/
+	- quote::you can one-shot prompt a decent website, but knowing the basics will help you scale better, use more efficient features, and help you to debug and fix problems
+	- when you work with Claude Code, you're working with two pieces
+		- harness
+			- the basic app
+			- has connection to machine, Git, etc.
+			- provides the state that the model does not have
+		- the model
+			- Opus 
+				- for deep reasoning
+				- when the answer is not in the code
+				- when you have non-obvious, hidden bugs
+				- slow
+				- expensive
+			- Sonnet
+				- when the code has to be understood but problem is not too complex
+				- refactoring
+				- new, simple feature
+				- general debugging
+			- Haiku 
+				- can not reason
+				- just executes steps
+				- rename functions
+				- create a list of files in the directory
+				- fast
+				- inexpensive
+			- model is stateness
+			- you shouldn't switch models as you are working through a session
+				- this has to do with prompt caching
+		- effort
+			- how hard you want to model to think
+		- you can also use Bedrock or Vertex to use Claude
+			- the two major managed platforms for generative AI / foundation models from the big cloud providers
+				- let you access foundation models (including Anthropic’s Claude) through the cloud providers’ infrastructure, instead of going directly to Anthropic’s API
+			- AWS Bedrock 
+				- a single API to call high-performing foundation models from multiple providers (Anthropic Claude, Meta Llama, Mistral, Amazon’s own Nova/Titan models, Cohere, Stability AI, and others — 100+ models in total).
+			- Gemini Vertex AI
+				- now evolving into the Gemini Enterprise Agent Platform
+				- includes Model Garden
+			- you can point Claude Code at Bedrock or Vertex instead of Anthropic's direct API
+	- using Claude Code
+		- when you use Claude online, or in the Desktop app, you have a "free claude.ai account"
+		- to use Claude Code, you have to upgrade to 
+			- Pro = 15€/month
+			- Max = 90€/month
+		- for Pro account
+			- check usage
+				- web
+					- claude.ai/settings/usage
+					- current 5-hour session limit
+					- weekly limit
+				- cli
+					- /usage 
+			- what happens when you hit the limit
+				- Claude has two independent limits:
+					- 5-hour session
+						- you get a message saying the limit is reached 
+						- you must wait usually 5 hours
+					- weekly limit
+						- you get a message saying the limit is reached 
+						- you have to wait until the next week
+			- can you be overcharged?
+				- not by accident
+				- the $20/month Pro subscription is a fixed fee
+				- hitting the included limits won't charge you more
+				- you can, however, opt to use extra usage 
+					- you must manually turn it on in Settings
+					- extra usage is billed at normal API rates
+					- you set your own monthly spending cap
+						- once you hit the cap you set, it stops again
+				- check usage anytime in Settings 
+		- how to use in VSCode
+			- install Claude Code extension (Anthropic)
+				- click Spark (✱) icon on side bar
+				- choose sign in
+				- browser window, sign in
+				- it returns to VSCode
+			- you can use Claude in two ways
+				- Spark panel
+				- terminal (type "claude")
+				- most people mainly use the Spark panel and only open the terminal when they need a specific CLI-only feature
+	
+- add foundry	
+	
+	
